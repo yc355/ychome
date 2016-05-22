@@ -7,6 +7,11 @@ body {
   font-size: 72px;
 }
 
+.link-panel {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
 #tko {
   font-size: 48px;
   font-style: italic;
